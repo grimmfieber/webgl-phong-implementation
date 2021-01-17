@@ -11,9 +11,9 @@ And open the 18290034.
 
 
 
-## What is actually does?
+## What actually does it?
 
-It's calculate ambient,diffuse and specular lightning on the log object.
+It calculates ambient,diffuse and specular lightning on the log object.
 
 
 
