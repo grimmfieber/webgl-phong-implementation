@@ -12,7 +12,7 @@
 
 ## How to execute?
 Just Download the codes. 
-And open the 18290034.
+And open the index.html thats all.
 
 
 
