@@ -1,4 +1,4 @@
-# lightningOnObject-WebGL
+# Phong Reflection Model Implementation on webGL
 
 ![LightOnLog](https://media3.giphy.com/media/wDtgocehpUGzYXrNk0/giphy.gif?cid=790b7611c7c5f5a1fcf65b2ab5f01671cf2e9e724bca7978&rid=giphy.gif&ct=g)
 
@@ -26,4 +26,5 @@ It calculates ambient,diffuse and specular lightning on the log object.
 
 I used the codes given below. (for initshaders and MV)
 > https://www.cs.unm.edu/~angel/WebGL/
+> for those doesn't know phong model ==> https://en.wikipedia.org/wiki/Phong_reflection_model
 
